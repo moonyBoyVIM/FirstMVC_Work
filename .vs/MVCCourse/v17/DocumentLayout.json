@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MVCCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|c:\\users\\admin\\source\\repos\\mvccourse\\shop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C9EB49-619E-4C44-A5CD-C20A0F869AE7}|Shop\\Shop.csproj|solutionrelative:shop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:02:16.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:46:01.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\_Category.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Categories\\_Category.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\_Category.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Categories\\_Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T15:41:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:59:55.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T16:47:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Shop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T16:47:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAzwDEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T16:39:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCCourse\\Shop\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T15:22:41.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
