@@ -1,9 +1,4 @@
-/*
-    *Thanks for Frank Liu for his tutorial:
-    *Full Course - Learn ASP.NET Core MVC in .NET 8 | CRUD Operations | EntityFramework | MVC Tutorial
-    *https://www.youtube.com/watch?v=BzlPrVB_DwA
-    *2024.09.03
- */
+
 using System.Net.Mime;
 using System.Text;
 
